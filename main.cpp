@@ -12,7 +12,7 @@ using std::cin, std::cout;
 int main(){
             /* - - task №1 - - */
 
-    /*
+    //*
     std::string path = "../src/res.txt";
 
     enrolled(path);
@@ -28,7 +28,7 @@ int main(){
 
             /* - - task 2 - - */
 
-    /*
+    //*
     HashTable<int, std::string> ht;
 
     ht.add(59, "Кирпич");
